@@ -221,9 +221,3 @@ of the config has been moved to Config.cs.
 * Anything else that has been added to 1.4/ Suggestions from external testers?
 
 
-
-## Contact Info
-
-Discord : Matheis#0489
-
-
